@@ -62,7 +62,7 @@ html.fullscreened {
 
 .chrome.windows #spoofBrowser {
   background: url(../img/browser-windows-chrome-left.png) left top no-repeat, url(../img/browser-windows-chrome-right.png) right top no-repeat, url(../img/browser-windows-chrome-bg.png) left top repeat-x;
-  height: 61px;
+  height: 87px;
 }
 
 .chrome.linux #spoofBrowser {
@@ -77,7 +77,7 @@ html.fullscreened {
 
 .firefox.windows #spoofBrowser {
   background: url(../img/browser-windows-firefox-left.png) left top no-repeat, url(../img/browser-windows-firefox-right.png) right top no-repeat, url(../img/browser-windows-firefox-bg.png) left top repeat-x;
-  height: 63px;
+  height: 88px;
 }
 
 .firefox.linux #spoofBrowser {
